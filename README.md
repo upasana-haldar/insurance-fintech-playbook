@@ -6,10 +6,15 @@ value chain, regulations and emerging technologies shaping the future of insuran
 This playbook covers:
 
 • Insurance ecosystem
+
 • Insurance value chain
+
 • Market structure
+
 • InsurTech innovations
+
 • AI use cases
+
 • Global and regional regulation
 
 Regions Covered
