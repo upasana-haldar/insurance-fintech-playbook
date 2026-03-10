@@ -3,7 +3,7 @@
 A structured knowledge repository to understand the insurance ecosystem, 
 value chain, regulations and emerging technologies shaping the future of insurance.
 
-This playbook covers:
+## This playbook covers:
 
 • Insurance ecosystem
 
@@ -17,13 +17,20 @@ This playbook covers:
 
 • Global and regional regulation
 
-Regions Covered
+##Regions Covered
+
 • Global
+
 • UAE
+
 • India
 
-Audience
+## Audience
+
 • FinTech professionals
+
 • Insurance analysts
+
 • Digital transformation leaders
+
 • AI & automation architects
