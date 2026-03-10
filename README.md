@@ -17,7 +17,7 @@ value chain, regulations and emerging technologies shaping the future of insuran
 
 • Global and regional regulation
 
-##Regions Covered
+## Regions Covered
 
 • Global
 
